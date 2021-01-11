@@ -4,7 +4,7 @@
 
 #### My top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvjtc&layout=compact&hide=HTML,CSS&langs_count=5)](https://github.com/alvjtc)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvjtc&layout=compact&theme=darcula&hide=HTML,CSS&langs_count=5)](https://github.com/alvjtc)
 
 #### 📫 How to reach me:
 
